@@ -1,0 +1,32 @@
+body{
+   height:300px;
+   width:200px;
+   margin:auto;
+   margin-top:25px;
+   border:2px solid;
+   border-color:#888888;
+}
+
+p{
+   margin-left:10px;
+}
+
+div.showName{
+   width:87%;
+   margin:auto;
+   margin-top:25px;
+}
+
+div.center{
+   width:87%;
+   margin: auto;
+}
+
+button{
+   height:37px;
+   width:170px;
+}
+
+textarea{
+   width:170px;
+}
